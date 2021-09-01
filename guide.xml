@@ -56,6 +56,10 @@
     <display-name lang="fr">MULTISPORTS</display-name>
     <url>http://www.www.skysiertv.com</url>
   </channel>
+  <channel id="Discovery Investigation">
+    <display-name lang="fr">Discovery Investigation</display-name>
+    <url>http://www.tv.sfr.fr</url>
+  </channel>
   <channel id="Nickelodeon+1">
     <display-name lang="fr">Nickelodeon+1</display-name>
     <url>http://www.tv.sfr.fr</url>
@@ -4501,15 +4505,15 @@ De nouvelles voix imitées et de nouvelles parodies pour un show exceptionnel !(
   </programme>
   <programme start="20210904193000 +0200" stop="20210904210500 +0200" channel="W9">
     <title lang="fr">La Petite Histoire de France</title>
-    <desc lang="fr">Série. Producteur: Jamel DEBBOUZE&lt;br&gt;Avec Alban IVANOV (&lt;i&gt;François d'Arc&lt;/i&gt;), Ophélia KOLB (&lt;i&gt;Ysabeau&lt;/i&gt;), Fatsah BOUYAHMED (&lt;i&gt;Gaspard&lt;/i&gt;), Charline PAUL (&lt;i&gt;Catherine&lt;/i&gt;), François LEVANTAL (&lt;i&gt;Comte Philippe Honoré de Roche Saint-Pierre&lt;/i&gt;), Anne-Sophie GIRARD (&lt;i&gt;Comtesse Marie-Louise de Roche Saint-Pierre&lt;/i&gt;), Sébastien CASTRO (&lt;i&gt;Abbé Martin&lt;/i&gt;), Philippe BÉGLIA (&lt;i&gt;Frémont&lt;/i&gt;), Karina MARIMON (&lt;i&gt;Renata Plancher&lt;/i&gt;), David SALLES (&lt;i&gt;Jean Plancher&lt;/i&gt;), Grant LAWRENS (&lt;i&gt;Baptiste Plancher&lt;/i&gt;), Franck MIGEON (&lt;i&gt;Le Cloalec'h&lt;/i&gt;). Tout le monde connait Jeanne d'Arc, Louis XIV et Napoléon. Leurs cousins en revanche ne sont pas rentrés dans l'histoire. La Petite Histoire de France a décidé de réparer cette erreur. 3 époques, 3 cousins oubliés de la Grande Histoire...(n)</desc>
+    <desc lang="fr">Série. Avec Alban IVANOV (&lt;i&gt;François d'Arc&lt;/i&gt;), Ophélia KOLB (&lt;i&gt;Ysabeau&lt;/i&gt;), Fatsah BOUYAHMED (&lt;i&gt;Gaspard&lt;/i&gt;), Charline PAUL (&lt;i&gt;Catherine&lt;/i&gt;), François LEVANTAL (&lt;i&gt;Comte Philippe Honoré de Roche Saint-Pierre&lt;/i&gt;), Anne-Sophie GIRARD (&lt;i&gt;Comtesse Marie-Louise de Roche Saint-Pierre&lt;/i&gt;), Sébastien CASTRO (&lt;i&gt;Abbé Martin&lt;/i&gt;), Philippe BÉGLIA (&lt;i&gt;Frémont&lt;/i&gt;), Karina MARIMON (&lt;i&gt;Renata Plancher&lt;/i&gt;), David SALLES (&lt;i&gt;Jean Plancher&lt;/i&gt;), Grant LAWRENS (&lt;i&gt;Baptiste Plancher&lt;/i&gt;), Franck MIGEON (&lt;i&gt;Le Cloalec'h&lt;/i&gt;)&lt;br&gt;Producteur: Jamel DEBBOUZE. Tout le monde connait Jeanne d'Arc, Louis XIV et Napoléon. Leurs cousins en revanche ne sont pas rentrés dans l'histoire. La Petite Histoire de France a décidé de réparer cette erreur. 3 époques, 3 cousins oubliés de la Grande Histoire...(n)</desc>
   </programme>
   <programme start="20210904210500 +0200" stop="20210904230000 +0200" channel="W9">
     <title lang="fr">La Petite Histoire de France</title>
-    <desc lang="fr">Série. Producteur: Jamel DEBBOUZE&lt;br&gt;Avec Alban IVANOV (&lt;i&gt;François d'Arc&lt;/i&gt;), Ophélia KOLB (&lt;i&gt;Ysabeau&lt;/i&gt;), Fatsah BOUYAHMED (&lt;i&gt;Gaspard&lt;/i&gt;), Charline PAUL (&lt;i&gt;Catherine&lt;/i&gt;), François LEVANTAL (&lt;i&gt;Comte Philippe Honoré de Roche Saint-Pierre&lt;/i&gt;), Anne-Sophie GIRARD (&lt;i&gt;Comtesse Marie-Louise de Roche Saint-Pierre&lt;/i&gt;), Sébastien CASTRO (&lt;i&gt;Abbé Martin&lt;/i&gt;), Philippe BÉGLIA (&lt;i&gt;Frémont&lt;/i&gt;), Karina MARIMON (&lt;i&gt;Renata Plancher&lt;/i&gt;), David SALLES (&lt;i&gt;Jean Plancher&lt;/i&gt;), Grant LAWRENS (&lt;i&gt;Baptiste Plancher&lt;/i&gt;), Franck MIGEON (&lt;i&gt;Le Cloalec'h&lt;/i&gt;). Tout le monde connait Jeanne d'Arc, Louis XIV et Napoléon. Leurs cousins en revanche ne sont pas rentrés dans l'histoire. La Petite Histoire de France a décidé de réparer cette erreur. 3 époques, 3 cousins oubliés de la Grande Histoire...(n)</desc>
+    <desc lang="fr">Série. Avec Alban IVANOV (&lt;i&gt;François d'Arc&lt;/i&gt;), Ophélia KOLB (&lt;i&gt;Ysabeau&lt;/i&gt;), Fatsah BOUYAHMED (&lt;i&gt;Gaspard&lt;/i&gt;), Charline PAUL (&lt;i&gt;Catherine&lt;/i&gt;), François LEVANTAL (&lt;i&gt;Comte Philippe Honoré de Roche Saint-Pierre&lt;/i&gt;), Anne-Sophie GIRARD (&lt;i&gt;Comtesse Marie-Louise de Roche Saint-Pierre&lt;/i&gt;), Sébastien CASTRO (&lt;i&gt;Abbé Martin&lt;/i&gt;), Philippe BÉGLIA (&lt;i&gt;Frémont&lt;/i&gt;), Karina MARIMON (&lt;i&gt;Renata Plancher&lt;/i&gt;), David SALLES (&lt;i&gt;Jean Plancher&lt;/i&gt;), Grant LAWRENS (&lt;i&gt;Baptiste Plancher&lt;/i&gt;), Franck MIGEON (&lt;i&gt;Le Cloalec'h&lt;/i&gt;)&lt;br&gt;Producteur: Jamel DEBBOUZE. Tout le monde connait Jeanne d'Arc, Louis XIV et Napoléon. Leurs cousins en revanche ne sont pas rentrés dans l'histoire. La Petite Histoire de France a décidé de réparer cette erreur. 3 époques, 3 cousins oubliés de la Grande Histoire...(n)</desc>
   </programme>
   <programme start="20210904230000 +0200" stop="20210905003000 +0200" channel="W9">
     <title lang="fr">La Petite Histoire de France</title>
-    <desc lang="fr">Série. Producteur: Jamel DEBBOUZE&lt;br&gt;Avec Alban IVANOV (&lt;i&gt;François d'Arc&lt;/i&gt;), Ophélia KOLB (&lt;i&gt;Ysabeau&lt;/i&gt;), Fatsah BOUYAHMED (&lt;i&gt;Gaspard&lt;/i&gt;), Charline PAUL (&lt;i&gt;Catherine&lt;/i&gt;), François LEVANTAL (&lt;i&gt;Comte Philippe Honoré de Roche Saint-Pierre&lt;/i&gt;), Anne-Sophie GIRARD (&lt;i&gt;Comtesse Marie-Louise de Roche Saint-Pierre&lt;/i&gt;), Sébastien CASTRO (&lt;i&gt;Abbé Martin&lt;/i&gt;), Philippe BÉGLIA (&lt;i&gt;Frémont&lt;/i&gt;), Karina MARIMON (&lt;i&gt;Renata Plancher&lt;/i&gt;), David SALLES (&lt;i&gt;Jean Plancher&lt;/i&gt;), Grant LAWRENS (&lt;i&gt;Baptiste Plancher&lt;/i&gt;), Franck MIGEON (&lt;i&gt;Le Cloalec'h&lt;/i&gt;). Tout le monde connait Jeanne d'Arc, Louis XIV et Napoléon. Leurs cousins en revanche ne sont pas rentrés dans l'histoire. La Petite Histoire de France a décidé de réparer cette erreur. 3 époques, 3 cousins oubliés de la Grande Histoire...(n)</desc>
+    <desc lang="fr">Série. Avec Alban IVANOV (&lt;i&gt;François d'Arc&lt;/i&gt;), Ophélia KOLB (&lt;i&gt;Ysabeau&lt;/i&gt;), Fatsah BOUYAHMED (&lt;i&gt;Gaspard&lt;/i&gt;), Charline PAUL (&lt;i&gt;Catherine&lt;/i&gt;), François LEVANTAL (&lt;i&gt;Comte Philippe Honoré de Roche Saint-Pierre&lt;/i&gt;), Anne-Sophie GIRARD (&lt;i&gt;Comtesse Marie-Louise de Roche Saint-Pierre&lt;/i&gt;), Sébastien CASTRO (&lt;i&gt;Abbé Martin&lt;/i&gt;), Philippe BÉGLIA (&lt;i&gt;Frémont&lt;/i&gt;), Karina MARIMON (&lt;i&gt;Renata Plancher&lt;/i&gt;), David SALLES (&lt;i&gt;Jean Plancher&lt;/i&gt;), Grant LAWRENS (&lt;i&gt;Baptiste Plancher&lt;/i&gt;), Franck MIGEON (&lt;i&gt;Le Cloalec'h&lt;/i&gt;)&lt;br&gt;Producteur: Jamel DEBBOUZE. Tout le monde connait Jeanne d'Arc, Louis XIV et Napoléon. Leurs cousins en revanche ne sont pas rentrés dans l'histoire. La Petite Histoire de France a décidé de réparer cette erreur. 3 époques, 3 cousins oubliés de la Grande Histoire...(n)</desc>
   </programme>
   <programme start="20210905003000 +0200" stop="20210905090000 +0200" channel="W9">
     <title lang="fr">Programmes de nuit</title>
@@ -4621,7 +4625,7 @@ De nouvelles voix imitées et de nouvelles parodies pour un show exceptionnel !(
   </programme>
   <programme start="20210906125000 +0200" stop="20210906135000 +0200" channel="W9">
     <title lang="fr">NCIS</title>
-    <desc lang="fr">&lt;b&gt;Charade&lt;/b&gt;. Série - Saison 13, Episode 20. Invité: Virginia WILLIAMS&lt;br&gt;Avec Mark HARMON (&lt;i&gt;Gibbs&lt;/i&gt;), Michael WEATHERLY (&lt;i&gt;Tony DiNozzo&lt;/i&gt;), Sean MURRAY (&lt;i&gt;Tim McGee&lt;/i&gt;), Pauley PERRETTE (&lt;i&gt;Abby Sciuto&lt;/i&gt;), Emily WICKERSHAM (&lt;i&gt;Eleanor Bishop&lt;/i&gt;), David MCCALLUM (&lt;i&gt;Ducky Mallard&lt;/i&gt;), Brian DIETZEN (&lt;i&gt;Jimmy Palmer&lt;/i&gt;), Rocky CARROLL (&lt;i&gt;Leon Vance&lt;/i&gt;). Trois maître-chanteurs ont usurpé l'identité de Tony DiNozzo pour extorquer l'argent de sénateurs, et l'un des arnaqueurs est retrouvé mort. Le NCIS doit identifier le commanditaire de cette opération, qui pourrait bien être lié au côté séducteur de l'agent spécial...(n)</desc>
+    <desc lang="fr">&lt;b&gt;Charade&lt;/b&gt;. Série - Saison 13, Episode 20. Avec Mark HARMON (&lt;i&gt;Gibbs&lt;/i&gt;), Michael WEATHERLY (&lt;i&gt;Tony DiNozzo&lt;/i&gt;), Sean MURRAY (&lt;i&gt;Tim McGee&lt;/i&gt;), Pauley PERRETTE (&lt;i&gt;Abby Sciuto&lt;/i&gt;), Emily WICKERSHAM (&lt;i&gt;Eleanor Bishop&lt;/i&gt;), David MCCALLUM (&lt;i&gt;Ducky Mallard&lt;/i&gt;), Brian DIETZEN (&lt;i&gt;Jimmy Palmer&lt;/i&gt;), Rocky CARROLL (&lt;i&gt;Leon Vance&lt;/i&gt;)&lt;br&gt;Invité: Virginia WILLIAMS. Trois maître-chanteurs ont usurpé l'identité de Tony DiNozzo pour extorquer l'argent de sénateurs, et l'un des arnaqueurs est retrouvé mort. Le NCIS doit identifier le commanditaire de cette opération, qui pourrait bien être lié au côté séducteur de l'agent spécial...(n)</desc>
   </programme>
   <programme start="20210906135000 +0200" stop="20210906150000 +0200" channel="W9">
     <title lang="fr">NCIS</title>
@@ -4629,11 +4633,11 @@ De nouvelles voix imitées et de nouvelles parodies pour un show exceptionnel !(
   </programme>
   <programme start="20210906150000 +0200" stop="20210906160000 +0200" channel="W9">
     <title lang="fr">NCIS</title>
-    <desc lang="fr">&lt;b&gt;Le don de soi&lt;/b&gt;. Série - Saison 13, Episode 10. Invité: Lindsay WAGNER, Ryan DOOM&lt;br&gt;Avec Mark HARMON (&lt;i&gt;Gibbs&lt;/i&gt;), Michael WEATHERLY (&lt;i&gt;Tony DiNozzo&lt;/i&gt;), Sean MURRAY (&lt;i&gt;Tim McGee&lt;/i&gt;), Pauley PERRETTE (&lt;i&gt;Abby Sciuto&lt;/i&gt;), Emily WICKERSHAM (&lt;i&gt;Eleanor Bishop&lt;/i&gt;), David MCCALLUM (&lt;i&gt;Ducky Mallard&lt;/i&gt;), Brian DIETZEN (&lt;i&gt;Jimmy Palmer&lt;/i&gt;), Rocky CARROLL (&lt;i&gt;Leon Vance&lt;/i&gt;), Joe SPANO (&lt;i&gt;T.C. Fornell&lt;/i&gt;). La Secrétaire de la Navy confie au NCIS la mission de retrouver le 4e enfant d'une fratrie après la mort de deux d'entre eux dans l'exercice de leurs fonctions et alors que le 3e a besoin d'une greffe. À quelques jours de Thanksgiving, Bishop, réfugiée dans sa famille après l'infidélité de son mari, prend part à l'enquête.(n)</desc>
+    <desc lang="fr">&lt;b&gt;Le don de soi&lt;/b&gt;. Série - Saison 13, Episode 10. Avec Mark HARMON (&lt;i&gt;Gibbs&lt;/i&gt;), Michael WEATHERLY (&lt;i&gt;Tony DiNozzo&lt;/i&gt;), Sean MURRAY (&lt;i&gt;Tim McGee&lt;/i&gt;), Pauley PERRETTE (&lt;i&gt;Abby Sciuto&lt;/i&gt;), Emily WICKERSHAM (&lt;i&gt;Eleanor Bishop&lt;/i&gt;), David MCCALLUM (&lt;i&gt;Ducky Mallard&lt;/i&gt;), Brian DIETZEN (&lt;i&gt;Jimmy Palmer&lt;/i&gt;), Rocky CARROLL (&lt;i&gt;Leon Vance&lt;/i&gt;), Joe SPANO (&lt;i&gt;T.C. Fornell&lt;/i&gt;)&lt;br&gt;Invité: Lindsay WAGNER, Ryan DOOM. La Secrétaire de la Navy confie au NCIS la mission de retrouver le 4e enfant d'une fratrie après la mort de deux d'entre eux dans l'exercice de leurs fonctions et alors que le 3e a besoin d'une greffe. À quelques jours de Thanksgiving, Bishop, réfugiée dans sa famille après l'infidélité de son mari, prend part à l'enquête.(n)</desc>
   </programme>
   <programme start="20210906160000 +0200" stop="20210906164000 +0200" channel="W9">
     <title lang="fr">NCIS</title>
-    <desc lang="fr">&lt;b&gt;Sur tous les fronts&lt;/b&gt;. Série - Saison 13, Episode 22. Invité: Michelle OBAMA&lt;br&gt;Avec Mark HARMON (&lt;i&gt;Gibbs&lt;/i&gt;), Sean MURRAY (&lt;i&gt;Tim McGee&lt;/i&gt;), Pauley PERRETTE (&lt;i&gt;Abby Sciuto&lt;/i&gt;), Emily WICKERSHAM (&lt;i&gt;Eleanor Bishop&lt;/i&gt;), David MCCALLUM (&lt;i&gt;Ducky Mallard&lt;/i&gt;), Rocky CARROLL (&lt;i&gt;Leon Vance&lt;/i&gt;), Reiko AYLESWORTH (&lt;i&gt;Ann Marshall&lt;/i&gt;), Joe SPANO (&lt;i&gt;T.C. Fornell&lt;/i&gt;). Vance et Fornell poursuivent l'enquête sur l'espion anglais après la mort d'une figure historique du NCIS, et se rendent en Grande Bretagne pour retrouver l'ancienne directrice du MI6, en danger également. Par ailleurs, Gibbs et son équipe sont mobilisés auprès de la famille d'un Marine dont le jeune fils de 14 ans a empêché l'intrusion d'un criminel à leur domicile...(n)</desc>
+    <desc lang="fr">&lt;b&gt;Sur tous les fronts&lt;/b&gt;. Série - Saison 13, Episode 22. Avec Mark HARMON (&lt;i&gt;Gibbs&lt;/i&gt;), Sean MURRAY (&lt;i&gt;Tim McGee&lt;/i&gt;), Pauley PERRETTE (&lt;i&gt;Abby Sciuto&lt;/i&gt;), Emily WICKERSHAM (&lt;i&gt;Eleanor Bishop&lt;/i&gt;), David MCCALLUM (&lt;i&gt;Ducky Mallard&lt;/i&gt;), Rocky CARROLL (&lt;i&gt;Leon Vance&lt;/i&gt;), Reiko AYLESWORTH (&lt;i&gt;Ann Marshall&lt;/i&gt;), Joe SPANO (&lt;i&gt;T.C. Fornell&lt;/i&gt;)&lt;br&gt;Invité: Michelle OBAMA. Vance et Fornell poursuivent l'enquête sur l'espion anglais après la mort d'une figure historique du NCIS, et se rendent en Grande Bretagne pour retrouver l'ancienne directrice du MI6, en danger également. Par ailleurs, Gibbs et son équipe sont mobilisés auprès de la famille d'un Marine dont le jeune fils de 14 ans a empêché l'intrusion d'un criminel à leur domicile...(n)</desc>
   </programme>
   <programme start="20210906164000 +0200" stop="20210906175000 +0200" channel="W9">
     <title lang="fr">Un dîner presque parfait</title>
@@ -4671,7 +4675,7 @@ Laquelle des deux familles parviendra à hisser ses couleurs et à soulever la c
   </programme>
   <programme start="20210906232000 +0200" stop="20210907002000 +0200" channel="W9">
     <title lang="fr">Bones</title>
-    <desc lang="fr">&lt;b&gt;Un homme bien&lt;/b&gt;. Série - Saison 1, Episode 3. Invité: Mark TOTTY&lt;br&gt;Avec Emily DESCHANEL (&lt;i&gt;Temperance Brennan&lt;/i&gt;), David BOREANAZ (&lt;i&gt;Seeley Booth&lt;/i&gt;), T.J THYNE (&lt;i&gt;Jack Hodgins&lt;/i&gt;), Michaela CONLIN (&lt;i&gt;Angela Montenegro&lt;/i&gt;), Eric MILLEGAN (&lt;i&gt;Zack Addy&lt;/i&gt;), Jonathan ADAMS (&lt;i&gt;Daniel Goodman&lt;/i&gt;). Le cadavre d'un collégien de 14 ans, fils de l'ambassadeur du Vénézuela, est retrouvé pendu à un arbre dans le parc de son école. La direction de cet établissement réputé aimerait conclure à un suicide pour se disculper...(n)</desc>
+    <desc lang="fr">&lt;b&gt;Un homme bien&lt;/b&gt;. Série - Saison 1, Episode 3. Avec Emily DESCHANEL (&lt;i&gt;Temperance Brennan&lt;/i&gt;), David BOREANAZ (&lt;i&gt;Seeley Booth&lt;/i&gt;), T.J THYNE (&lt;i&gt;Jack Hodgins&lt;/i&gt;), Michaela CONLIN (&lt;i&gt;Angela Montenegro&lt;/i&gt;), Eric MILLEGAN (&lt;i&gt;Zack Addy&lt;/i&gt;), Jonathan ADAMS (&lt;i&gt;Daniel Goodman&lt;/i&gt;)&lt;br&gt;Invité: Mark TOTTY. Le cadavre d'un collégien de 14 ans, fils de l'ambassadeur du Vénézuela, est retrouvé pendu à un arbre dans le parc de son école. La direction de cet établissement réputé aimerait conclure à un suicide pour se disculper...(n)</desc>
   </programme>
   <programme start="20210907002000 +0200" stop="20210907011000 +0200" channel="W9">
     <title lang="fr">Bones</title>
@@ -4679,7 +4683,7 @@ Laquelle des deux familles parviendra à hisser ses couleurs et à soulever la c
   </programme>
   <programme start="20210907011000 +0200" stop="20210907020000 +0200" channel="W9">
     <title lang="fr">Bones</title>
-    <desc lang="fr">&lt;b&gt;Pris pour cible&lt;/b&gt;. Série - Saison 1, Episode 15. Invité: Adam BALDWIN&lt;br&gt;Avec Emily DESCHANEL (&lt;i&gt;Temperance Brennan&lt;/i&gt;), David BOREANAZ (&lt;i&gt;Seeley Booth&lt;/i&gt;), T.J THYNE (&lt;i&gt;Jack Hodgins&lt;/i&gt;), Michaela CONLIN (&lt;i&gt;Angela Montenegro&lt;/i&gt;), Eric MILLEGAN (&lt;i&gt;Zack Addy&lt;/i&gt;), Jonathan ADAMS (&lt;i&gt;Daniel Goodman&lt;/i&gt;). Alors qu'ils enquêtent sur un corps pouvant correspondre à un chef mafieux, Booth et Brennan sont également mobilisés sur des crimes en série où les victimes ont été torturées. En se rendant à un rendez-vous galant, Brennan alors est la cible de coups de feu...(n)</desc>
+    <desc lang="fr">&lt;b&gt;Pris pour cible&lt;/b&gt;. Série - Saison 1, Episode 15. Avec Emily DESCHANEL (&lt;i&gt;Temperance Brennan&lt;/i&gt;), David BOREANAZ (&lt;i&gt;Seeley Booth&lt;/i&gt;), T.J THYNE (&lt;i&gt;Jack Hodgins&lt;/i&gt;), Michaela CONLIN (&lt;i&gt;Angela Montenegro&lt;/i&gt;), Eric MILLEGAN (&lt;i&gt;Zack Addy&lt;/i&gt;), Jonathan ADAMS (&lt;i&gt;Daniel Goodman&lt;/i&gt;)&lt;br&gt;Invité: Adam BALDWIN. Alors qu'ils enquêtent sur un corps pouvant correspondre à un chef mafieux, Booth et Brennan sont également mobilisés sur des crimes en série où les victimes ont été torturées. En se rendant à un rendez-vous galant, Brennan alors est la cible de coups de feu...(n)</desc>
   </programme>
   <programme start="20210907020000 +0200" stop="20210907025000 +0200" channel="W9">
     <title lang="fr">Bones</title>
@@ -4719,7 +4723,7 @@ Laquelle des deux familles parviendra à hisser ses couleurs et à soulever la c
   </programme>
   <programme start="20210907150000 +0200" stop="20210907160000 +0200" channel="W9">
     <title lang="fr">NCIS</title>
-    <desc lang="fr">&lt;b&gt;Déjà vu&lt;/b&gt;. Série - Saison 13, Episode 13. Invité: Mike BRADECICH&lt;br&gt;Réalisateur: Rocky CARROLL&lt;br&gt;Avec Mark HARMON (&lt;i&gt;Gibbs&lt;/i&gt;), Michael WEATHERLY (&lt;i&gt;Tony DiNozzo&lt;/i&gt;), Sean MURRAY (&lt;i&gt;Tim McGee&lt;/i&gt;), Pauley PERRETTE (&lt;i&gt;Abby Sciuto&lt;/i&gt;), Emily WICKERSHAM (&lt;i&gt;Eleanor Bishop&lt;/i&gt;), David MCCALLUM (&lt;i&gt;Ducky Mallard&lt;/i&gt;), Brian DIETZEN (&lt;i&gt;Jimmy Palmer&lt;/i&gt;). Alors qu'elle enquête avec ses collègues sur le meurtre d'une femme Marine et la disparition d'une étudiante, Ellie Bishop fait le rapprochement avec un trafic d'êtres humains qu'elle avait contribué à démanteler à l'époque où elle travaillait pour la NSA...(n)</desc>
+    <desc lang="fr">&lt;b&gt;Déjà vu&lt;/b&gt;. Série - Saison 13, Episode 13. Réalisateur: Rocky CARROLL&lt;br&gt;Avec Mark HARMON (&lt;i&gt;Gibbs&lt;/i&gt;), Michael WEATHERLY (&lt;i&gt;Tony DiNozzo&lt;/i&gt;), Sean MURRAY (&lt;i&gt;Tim McGee&lt;/i&gt;), Pauley PERRETTE (&lt;i&gt;Abby Sciuto&lt;/i&gt;), Emily WICKERSHAM (&lt;i&gt;Eleanor Bishop&lt;/i&gt;), David MCCALLUM (&lt;i&gt;Ducky Mallard&lt;/i&gt;), Brian DIETZEN (&lt;i&gt;Jimmy Palmer&lt;/i&gt;)&lt;br&gt;Invité: Mike BRADECICH. Alors qu'elle enquête avec ses collègues sur le meurtre d'une femme Marine et la disparition d'une étudiante, Ellie Bishop fait le rapprochement avec un trafic d'êtres humains qu'elle avait contribué à démanteler à l'époque où elle travaillait pour la NSA...(n)</desc>
   </programme>
   <programme start="20210907160000 +0200" stop="20210907164000 +0200" channel="W9">
     <title lang="fr">NCIS</title>
@@ -7175,6 +7179,810 @@ Dans les Alpes-de-Haute-Provence, été comme hiver, les pompiers volontaires do
   <programme start="20210901000000 +0200" stop="20210901000000 +0200" channel="MULTISPORTS">
     <title lang="fr">Grilles MULTISPORTS 5 - Canal 257</title>
     <desc lang="fr">Aucune diffusion sur ce canal à la date sélectionnée.(n)</desc>
+  </programme>
+  <programme start="20210901000000 +0000" stop="20210901005000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Pamela Smart : la veuve aux deux visages</title>
+    <desc lang="fr">Au cours du procès, le ministère public fait écouter des enregistrements audio secrets qui choquent l'assemblée. Pam insiste qu'elle n'est pas impliquée dans la mort de son mari.(n)</desc>
+  </programme>
+  <programme start="20210901005000 +0000" stop="20210901014000 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">En 2012, au Texas, le Dr Joseph Sonnier est retrouvé assassiné à son domicile : qui voudrait tuer un médecin et père de famille reconnu et respecté de tous ?(n)</desc>
+  </programme>
+  <programme start="20210901014000 +0000" stop="20210901023000 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">Au Texas, Jimmy Shins, le propriétaire d'un club de boxe, est abattu dans son allée de garage : sa femme accuse la maîtresse de son défunt mari du meurtre.(n)</desc>
+  </programme>
+  <programme start="20210901023000 +0000" stop="20210901031500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Rico Harris, ancien Harlem Globetrotter, disparaît en se rendant à Seattle ; au fil de l'enquête, les policiers embarquent dans un voyage de plus en plus déroutant.(n)</desc>
+  </programme>
+  <programme start="20210901031500 +0000" stop="20210901040000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Robert n'est pas là pour accueillir sa femme à l'aéroport, et leur fils indique aux enquêteurs qu'il a rencontré des hommes louches : pourquoi Robert a-t-il disparu ?(n)</desc>
+  </programme>
+  <programme start="20210901040000 +0000" stop="20210901042500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Au coeur des douanes</title>
+    <desc lang="fr">Suivez les agents de sécurité et des douanes à la frontière espagnole dans leur lutte contre les menaces incessantes des drogues, du trafic d'armes et du terrorisme.(n)</desc>
+  </programme>
+  <programme start="20210901042500 +0000" stop="20210901051000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Dark Waters : les rivages de la mort</title>
+    <desc lang="fr">Le lac Erie abrite plus de 2 000 épaves de bateaux à cause de ses hauts-fonds. Un pêcheur local essayant de naviguer une double vie est sur le point de faire naufrage.(n)</desc>
+  </programme>
+  <programme start="20210901051000 +0000" stop="20210901060000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Le millionnaire Billy McGrath disparaît et quelqu'un usurpe son identité pour envoyer des mails ; son conseiller alerte la police qui découvre une conspiration troublante.(n)</desc>
+  </programme>
+  <programme start="20210901060000 +0000" stop="20210901065000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Des enquêteurs tentent de résoudre de mystérieuses affaires de personnes disparues : s'agit-il de disparitions volontaires ou de comportements criminels ?(n)</desc>
+  </programme>
+  <programme start="20210901065000 +0000" stop="20210901074000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Gwen Bailey s'estime chanceuse lorqu'elle épouse Norman Starnes ; mais des années plus tard, elle réalise que son mari parfait est en fait un parfait monstre.(n)</desc>
+  </programme>
+  <programme start="20210901074000 +0000" stop="20210901083000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Shelly Lietz a peur de son fils depuis qu'il a 4 ans ; avec les années, cette peur ne fait que grandir, jusqu'à ce qu'elle se retrouve prisonnière dans sa propre maison.(n)</desc>
+  </programme>
+  <programme start="20210901083000 +0000" stop="20210901092500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicides</title>
+    <desc lang="fr">Lorsque le mari de Robin est retrouvé assassiné, son amie Carole est là pour la soutenir : mais l'enquête va-t-elle révéler des faits qui pourraient menacer leur amitié ?(n)</desc>
+  </programme>
+  <programme start="20210901092500 +0000" stop="20210901101500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicides</title>
+    <desc lang="fr">Un gang de criminels sème la terreur dans les petites villes des Appalaches. Ils ciblent les citoyens innocents en se faisant passer pour des agents fédéraux.(n)</desc>
+  </programme>
+  <programme start="20210901101500 +0000" stop="20210901111000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Confessions criminelles</title>
+    <desc lang="fr">Lorsque deux femmes sont tuées, la police rassemble des indices étayant la thèse d'un tueur en série ; un tuyau anonyme les mène à un suspect suprenant.(n)</desc>
+  </programme>
+  <programme start="20210901111000 +0000" stop="20210901120000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Confessions criminelles</title>
+    <desc lang="fr">Une femme disparaît alors que son mari, routier, est en voyage. Quand la police démarre l'enquête, ils trouvent un jeune homme dans leur maison.(n)</desc>
+  </programme>
+  <programme start="20210901120000 +0000" stop="20210901125500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Hatice part en voyage avec son fiancé mais ne donne plus de nouvelles durant des semaines : les enquêteurs découvrent les sombres secrets du fiancé, et commencent à le suspecter.(n)</desc>
+  </programme>
+  <programme start="20210901125500 +0000" stop="20210901134500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Des enquêteurs tentent de résoudre de mystérieuses affaires de personnes disparues : s'agit-il de disparitions volontaires ou de comportements criminels ?(n)</desc>
+  </programme>
+  <programme start="20210901134500 +0000" stop="20210901144000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Quand Melissa Holland se marie avec son amour de jeunesse, elle pense qu'ils vont vivre heureux pour toujours ; mais très vite, son mari la met en grave danger.(n)</desc>
+  </programme>
+  <programme start="20210901144000 +0000" stop="20210901153000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Thom Bierdz joue dans une série télé à succès et décide de faire venir son jeune frère perturbé à Los Angeles mais cela va coûter la vie à un être cher.(n)</desc>
+  </programme>
+  <programme start="20210901153000 +0000" stop="20210901162500 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Sandy Miles et sa fille sont inséparables. Lorsque Sandy est retrouvée assassinée, les inspecteurs ont du mal à croire ce qu'ils découvrent.(n)</desc>
+  </programme>
+  <programme start="20210901162500 +0000" stop="20210901171500 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Un couple en plein divorce pour le moins houleux, s'affronte pour la garde de leur fils. La tension monte jusqu'à une agression sanglante.(n)</desc>
+  </programme>
+  <programme start="20210901171500 +0000" stop="20210901181000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Anatomie d'un crime</title>
+    <desc lang="fr">Sean Taylor, star des Washington Redskins, est abattu par un intrus dans sa maison de Miami ; comme toujours lorsqu'une célébrité est assassinée, tout le monde semble avoir un mobile.(n)</desc>
+  </programme>
+  <programme start="20210901181000 +0000" stop="20210901190000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Anatomie d'un crime</title>
+    <desc lang="fr">En 2012, Raquel Calderin, maman de 42 ans à Miami, disparait sans laisser de trace sur le chemin du retour de son travail. Les inspecteurs dressent un portrait familial dérangeant.(n)</desc>
+  </programme>
+  <programme start="20210901190000 +0000" stop="20210901195000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Police Body Cam</title>
+    <desc lang="fr">Plongez au cœur de l'action : suivez le quotidien de policiers à partir des vidéos d'intervention, et voyez comment ils gèrent les situations les plus tendues.(n)</desc>
+  </programme>
+  <programme start="20210901195000 +0000" stop="20210901204000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Police Body Cam</title>
+    <desc lang="fr">Découvrez le quotidien de la police comme vous ne l'avez jamais vu grâce aux vidéos de leurs caméras embarquées. Partir en patrouille n'a rien d'un travail de routine.(n)</desc>
+  </programme>
+  <programme start="20210901204000 +0000" stop="20210901213000 +0000" channel="Discovery Investigation">
+    <title lang="fr">La face sombre de l'Amérique profonde</title>
+    <desc lang="fr">En Alabama, un mari est abattu chez lui. La police pense à un cambriolage qui a mal tourné, mais un sombre secret se cache entre les bancs de l'église baptiste locale.(n)</desc>
+  </programme>
+  <programme start="20210901213000 +0000" stop="20210901222000 +0000" channel="Discovery Investigation">
+    <title lang="fr">La face sombre de l'Amérique profonde</title>
+    <desc lang="fr">On retrouve les corps de trois adolescents précédemment disparus au Texas. Un cambriolage permet l'identification d'un suspect, suivi d'une évasion et d'une immense chasse à l'homme.(n)</desc>
+  </programme>
+  <programme start="20210901222000 +0000" stop="20210901231000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicide City</title>
+    <desc lang="fr">Patty et Richard Zimmerman, des bijoutiers, sont retrouvés morts. La police pense à un cambriolage qui aurait mal tourné mais découvre bientôt une vérité encore plus horrible.(n)</desc>
+  </programme>
+  <programme start="20210901231000 +0000" stop="20210902000000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicide city</title>
+    <desc lang="fr">John Thurberg est assassiné à son travail et le mobile n'est pas évident. La police interroge ses employés et découvre un tissu de mensonges et de secrets.(n)</desc>
+  </programme>
+  <programme start="20210902000000 +0000" stop="20210902005000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicide city</title>
+    <desc lang="fr">Courtlandt et Alexandra sont retrouvés morts chez eux. Il n'y a aucune empreinte et peu de preuves. Au pied du mur, la police met les bouchées doubles pour retrouver le tueur.(n)</desc>
+  </programme>
+  <programme start="20210902005000 +0000" stop="20210902014000 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Sandy Miles et sa fille sont inséparables. Lorsque Sandy est retrouvée assassinée, les inspecteurs ont du mal à croire ce qu'ils découvrent.(n)</desc>
+  </programme>
+  <programme start="20210902014000 +0000" stop="20210902023000 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Un couple en plein divorce pour le moins houleux, s'affronte pour la garde de leur fils. La tension monte jusqu'à une agression sanglante.(n)</desc>
+  </programme>
+  <programme start="20210902023000 +0000" stop="20210902031500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Anatomie d'un crime</title>
+    <desc lang="fr">Sean Taylor, star des Washington Redskins, est abattu par un intrus dans sa maison de Miami ; comme toujours lorsqu'une célébrité est assassinée, tout le monde semble avoir un mobile.(n)</desc>
+  </programme>
+  <programme start="20210902031500 +0000" stop="20210902040000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Anatomie d'un crime</title>
+    <desc lang="fr">En 2012, Raquel Calderin, maman de 42 ans à Miami, disparait sans laisser de trace sur le chemin du retour de son travail. Les inspecteurs dressent un portrait familial dérangeant.(n)</desc>
+  </programme>
+  <programme start="20210902040000 +0000" stop="20210902042500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Au coeur des douanes</title>
+    <desc lang="fr">Suivez les agents de sécurité et des douanes à la frontière espagnole dans leur lutte contre les menaces incessantes des drogues, du trafic d'armes et du terrorisme.(n)</desc>
+  </programme>
+  <programme start="20210902042500 +0000" stop="20210902051000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">Plongez au cœur d'enquêtes pour meurtres à travers le prisme des vidéos relatives au crime : images de vidéosurveillance ou encore enregistrement des salles d'interrogatoire.(n)</desc>
+  </programme>
+  <programme start="20210902051000 +0000" stop="20210902060000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Hatice part en voyage avec son fiancé mais ne donne plus de nouvelles durant des semaines : les enquêteurs découvrent les sombres secrets du fiancé, et commencent à le suspecter.(n)</desc>
+  </programme>
+  <programme start="20210902060000 +0000" stop="20210902065000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Des enquêteurs tentent de résoudre de mystérieuses affaires de personnes disparues : s'agit-il de disparitions volontaires ou de comportements criminels ?(n)</desc>
+  </programme>
+  <programme start="20210902065000 +0000" stop="20210902074000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Quand Melissa Holland se marie avec son amour de jeunesse, elle pense qu'ils vont vivre heureux pour toujours ; mais très vite, son mari la met en grave danger.(n)</desc>
+  </programme>
+  <programme start="20210902074000 +0000" stop="20210902083000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Thom Bierdz joue dans une série télé à succès et décide de faire venir son jeune frère perturbé à Los Angeles mais cela va coûter la vie à un être cher.(n)</desc>
+  </programme>
+  <programme start="20210902083000 +0000" stop="20210902092500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">À Sandusky, dans l'Ohio, la police est appelée à la suite de coups de feu. À leur arrivée, ils trouvent un homme mort dans son camion et un quartier qui semble en proie à l'omerta.(n)</desc>
+  </programme>
+  <programme start="20210902092500 +0000" stop="20210902101500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">Les enquêtes criminelles s'appuient sur les images filmées par les caméras embarquées des policiers américains. Quels retournements spectaculaires permettront d'attraper le tueur ?(n)</desc>
+  </programme>
+  <programme start="20210902101500 +0000" stop="20210902111000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Twisted Sisters : les soeurs du mal</title>
+    <desc lang="fr">Une dispute pour la garde des enfants s'avère mortelle quand des jumelles imaginent un plan complexe. Comment les inspecteurs démêleront-ils le vrai du faux ?(n)</desc>
+  </programme>
+  <programme start="20210902111000 +0000" stop="20210902120000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Twisted Sisters : les soeurs du mal</title>
+    <desc lang="fr">Deux sœurs très proches se disputent l'héritage de leur mère. Des années plus tard, l'une d'entre elles meurt dans des circonstances tout aussi douloureuses que mystérieuses.(n)</desc>
+  </programme>
+  <programme start="20210902120000 +0000" stop="20210902125500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Des enquêteurs tentent de résoudre de mystérieuses affaires de personnes disparues : s'agit-il de disparitions volontaires ou de comportements criminels ?(n)</desc>
+  </programme>
+  <programme start="20210902125500 +0000" stop="20210902134500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Bethany est enceinte de son amant quand elle disparaît ; la police interroge le mari trompé et son nouvel amant, mais disent-ils bien tous les deux la vérité ?(n)</desc>
+  </programme>
+  <programme start="20210902134500 +0000" stop="20210902144000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Elevée dans une secte, Estephania LeBaron apprend que sa famille tue au nom de Dieu ; quand elle doit elle-même faire le même chose, elle remet tout en cause.(n)</desc>
+  </programme>
+  <programme start="20210902144000 +0000" stop="20210902153000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Melissa More adore son père Keith Jeperson, qui, à ses yeux, ne peut rien faire de mal ; mais en grandissant, son amour se transforme en peur de devenir sa prochaine victime.(n)</desc>
+  </programme>
+  <programme start="20210902153000 +0000" stop="20210902162500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Angela s'inscrit sur un site de rencontres et y tombe vite amoureuse ; le premier rendez-vous semble troubler Angela, qui disparaît après le second.(n)</desc>
+  </programme>
+  <programme start="20210902162500 +0000" stop="20210902171500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Hope, 14 ans, passe son temps en ligne après le divorce de ses parents ; après une apparente fugue, sa famille reçoit un appel prouvant qu'elle n'est pas partie de son plein gré.(n)</desc>
+  </programme>
+  <programme start="20210902171500 +0000" stop="20210902181000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Victimes non identifiées</title>
+    <desc lang="fr">Des fermiers découvrent le corps d'une femme sur une route déserte en Californie. 10 ans plus tard, l'inspecteur rouvre l'affaire grâce à une nouvelle technologie d'investigation.(n)</desc>
+  </programme>
+  <programme start="20210902181000 +0000" stop="20210902190000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Victimes non identifiées</title>
+    <desc lang="fr">En 1992, on découvre le corps non identifié d'une femme en plein désert de Mojave. 20 ans plus tard, un accident de voiture mène à une identification surprenante.(n)</desc>
+  </programme>
+  <programme start="20210902190000 +0000" stop="20210902195000 +0000" channel="Discovery Investigation">
+    <title lang="fr">La face sombre de l'Amérique profonde</title>
+    <desc lang="fr">La découverte du corps d'une femme dans une crique fait remonter à la surface secrets de famille, vieilles querelles et un enterrement suspect. Serait-ce un coup monté ?(n)</desc>
+  </programme>
+  <programme start="20210902195000 +0000" stop="20210902204000 +0000" channel="Discovery Investigation">
+    <title lang="fr">En plein cauchemar</title>
+    <desc lang="fr">Un homme de 28 ans rompt avec sa moitié et disparaît juste après. Alors que la police le recherche, des textos suspects font surface.(n)</desc>
+  </programme>
+  <programme start="20210902204000 +0000" stop="20210902222000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Monster : confessions d'une criminelle</title>
+    <desc lang="fr">Aileen Wuornos a été la première femme tueuse en série des Etat-Unis. Dans le couloir de la mort, elle a écrit à son amie ses plus sombres secrets qui sont aujourd'hui révélés au grand public.(n)</desc>
+  </programme>
+  <programme start="20210902222000 +0000" stop="20210902231000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Mauvaises rencontres</title>
+    <desc lang="fr">Un passionné de chiens sympathise avec une éleveuse de dogues allemands ; l'ex-petit ami de la jeune femme ne supporte pas cette nouvelle relation.(n)</desc>
+  </programme>
+  <programme start="20210902231000 +0000" stop="20210903000000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Mauvaises rencontres</title>
+    <desc lang="fr">Shelley tombe amoureuse de Nathan, mais leur romance suscite la jalousie d'un de leurs amis. Jusqu'où ira-t-il pour saboter leur relation ?(n)</desc>
+  </programme>
+  <programme start="20210903000000 +0000" stop="20210903005000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Mauvaises rencontres</title>
+    <desc lang="fr">Des rencontres fortuites, des décisions de la vie de tous les jours et des actes de violence aléatoires mènent parfois les gens ordinaires à leur propre mort.(n)</desc>
+  </programme>
+  <programme start="20210903005000 +0000" stop="20210903014000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Angela s'inscrit sur un site de rencontres et y tombe vite amoureuse ; le premier rendez-vous semble troubler Angela, qui disparaît après le second.(n)</desc>
+  </programme>
+  <programme start="20210903014000 +0000" stop="20210903023000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Hope, 14 ans, passe son temps en ligne après le divorce de ses parents ; après une apparente fugue, sa famille reçoit un appel prouvant qu'elle n'est pas partie de son plein gré.(n)</desc>
+  </programme>
+  <programme start="20210903023000 +0000" stop="20210903031500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Victimes non identifiées</title>
+    <desc lang="fr">Des fermiers découvrent le corps d'une femme sur une route déserte en Californie. 10 ans plus tard, l'inspecteur rouvre l'affaire grâce à une nouvelle technologie d'investigation.(n)</desc>
+  </programme>
+  <programme start="20210903031500 +0000" stop="20210903040000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Victimes non identifiées</title>
+    <desc lang="fr">En 1992, on découvre le corps non identifié d'une femme en plein désert de Mojave. 20 ans plus tard, un accident de voiture mène à une identification surprenante.(n)</desc>
+  </programme>
+  <programme start="20210903040000 +0000" stop="20210903042500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Au coeur des douanes</title>
+    <desc lang="fr">Suivez les agents de sécurité et des douanes à la frontière espagnole dans leur lutte contre les menaces incessantes des drogues, du trafic d'armes et du terrorisme.(n)</desc>
+  </programme>
+  <programme start="20210903042500 +0000" stop="20210903051000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">Les enquêtes criminelles s'appuient sur les images filmées par les caméras embarquées des policiers américains. Quels retournements spectaculaires permettront d'attraper le tueur ?(n)</desc>
+  </programme>
+  <programme start="20210903051000 +0000" stop="20210903060000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Des enquêteurs tentent de résoudre de mystérieuses affaires de personnes disparues : s'agit-il de disparitions volontaires ou de comportements criminels ?(n)</desc>
+  </programme>
+  <programme start="20210903060000 +0000" stop="20210903065000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Bethany est enceinte de son amant quand elle disparaît ; la police interroge le mari trompé et son nouvel amant, mais disent-ils bien tous les deux la vérité ?(n)</desc>
+  </programme>
+  <programme start="20210903065000 +0000" stop="20210903074000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Elevée dans une secte, Estephania LeBaron apprend que sa famille tue au nom de Dieu ; quand elle doit elle-même faire le même chose, elle remet tout en cause.(n)</desc>
+  </programme>
+  <programme start="20210903074000 +0000" stop="20210903083000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Melissa More adore son père Keith Jeperson, qui, à ses yeux, ne peut rien faire de mal ; mais en grandissant, son amour se transforme en peur de devenir sa prochaine victime.(n)</desc>
+  </programme>
+  <programme start="20210903083000 +0000" stop="20210903092500 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Sandy Miles et sa fille sont inséparables. Lorsque Sandy est retrouvée assassinée, les inspecteurs ont du mal à croire ce qu'ils découvrent.(n)</desc>
+  </programme>
+  <programme start="20210903092500 +0000" stop="20210903101500 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Un couple en plein divorce pour le moins houleux, s'affronte pour la garde de leur fils. La tension monte jusqu'à une agression sanglante.(n)</desc>
+  </programme>
+  <programme start="20210903101500 +0000" stop="20210903111000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Anatomie d'un crime</title>
+    <desc lang="fr">Sean Taylor, star des Washington Redskins, est abattu par un intrus dans sa maison de Miami ; comme toujours lorsqu'une célébrité est assassinée, tout le monde semble avoir un mobile.(n)</desc>
+  </programme>
+  <programme start="20210903111000 +0000" stop="20210903120000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Anatomie d'un crime</title>
+    <desc lang="fr">En 2012, Raquel Calderin, maman de 42 ans à Miami, disparait sans laisser de trace sur le chemin du retour de son travail. Les inspecteurs dressent un portrait familial dérangeant.(n)</desc>
+  </programme>
+  <programme start="20210903120000 +0000" stop="20210903125500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Tracey Ocasio a disparu : quand on retrouve une de ses bottes dans la forêt, les enquêteurs craignent le pire. L'agression violente d'une autre jeune femme y est-elle liée ?(n)</desc>
+  </programme>
+  <programme start="20210903125500 +0000" stop="20210903134500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Un jeune homme disparaît lors d'une chasse au trésor dans le désert d'Arizona ; les secouristes vont-ils le retrouver, ou Jesse est-il une autre victime de la malédiction du Hollandais ?(n)</desc>
+  </programme>
+  <programme start="20210903134500 +0000" stop="20210903144000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Enfant, Michael Blanco a vu sa mère commettre des actes violents ; mais alors qu'il pensait qu'elle avait agi pour protéger sa famille, la vérité est toute autre.(n)</desc>
+  </programme>
+  <programme start="20210903144000 +0000" stop="20210903153000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Beverly Stephens commence à s'inquiéter du comportement bizarre de son mari, mais elle est loin de se douter que c'est un tueur.(n)</desc>
+  </programme>
+  <programme start="20210903153000 +0000" stop="20210903162500 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">Un riche financier new-yorkais est retrouvé assassiné dans son manoir ; les vidéos de surveillance ont peut-être filmé la scène, mais les inspecteurs s'engagent sur une route sinueuse.(n)</desc>
+  </programme>
+  <programme start="20210903162500 +0000" stop="20210903171500 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">En 2008, à Houston, Tina DaVilla promène son bébé lorsqu'elle est attaquée dans un parking ; bientôt, des crimes similaires frappent la ville, mais sont-ils liés ?(n)</desc>
+  </programme>
+  <programme start="20210903171500 +0000" stop="20210903181000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Tammy disparaît après avoir quitté son travail ; ses proches retrouvent un mot indiquant qu'elle est partie se promener, mais les recherches ne donnent rien.(n)</desc>
+  </programme>
+  <programme start="20210903181000 +0000" stop="20210903190000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Une artiste disparaît en rentrant chez elle ; quand sa voiture est retrouvée abandonnée sur un parking, de sombres spéculations naissent au sujet de sa disparition.(n)</desc>
+  </programme>
+  <programme start="20210903190000 +0000" stop="20210903204000 +0000" channel="Discovery Investigation">
+    <title lang="fr">NXIVM : les disparues de la secte</title>
+    <desc lang="fr">Une enquête sur ce qui est arrivé à quatre femmes qui étaient membres du culte NXIVM et qui ont disparu ou sont mortes dans de mystérieuses circonstances.(n)</desc>
+  </programme>
+  <programme start="20210903204000 +0000" stop="20210903213000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Alice a toujours envié la vie parfaite de son voisin d'enfance William ; après l'avoir épousé, elle réalise petit à petit que sa vie n'était pas aussi parfaite qu'elle semblait.(n)</desc>
+  </programme>
+  <programme start="20210903213000 +0000" stop="20210903222000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Lorsque Susan se rend à la police pour confesser son rôle dans un culte satanique et ses plans pour assassiner son mari, personne ne peut imaginer que la réalité est encore plus bizarre.(n)</desc>
+  </programme>
+  <programme start="20210903222000 +0000" stop="20210903231000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Péché mortel</title>
+    <desc lang="fr">Rae est aussi doué sur un terrain de football qu'au lit. Mais il fait face à plusieurs problèmes, il décide alors de les illiminer.(n)</desc>
+  </programme>
+  <programme start="20210903231000 +0000" stop="20210904000000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Péché mortel</title>
+    <desc lang="fr">Un boy-scout devient dealer de drogue. Les dettes de ce Scarface en devenir s'accumulent dangereusement et il décide de régler ses comptes par la violence.(n)</desc>
+  </programme>
+  <programme start="20210904000000 +0000" stop="20210904005000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Péché mortel</title>
+    <desc lang="fr">Un jeune soldat entame une liaison passionnée avec une mineure délurée. Ils sont déterminés à ce que rien ne se mette en travers de leur relation - y compris sa femme et son bébé.(n)</desc>
+  </programme>
+  <programme start="20210904005000 +0000" stop="20210904014000 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">Un riche financier new-yorkais est retrouvé assassiné dans son manoir ; les vidéos de surveillance ont peut-être filmé la scène, mais les inspecteurs s'engagent sur une route sinueuse.(n)</desc>
+  </programme>
+  <programme start="20210904014000 +0000" stop="20210904023000 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">En 2008, à Houston, Tina DaVilla promène son bébé lorsqu'elle est attaquée dans un parking ; bientôt, des crimes similaires frappent la ville, mais sont-ils liés ?(n)</desc>
+  </programme>
+  <programme start="20210904023000 +0000" stop="20210904031500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Tammy disparaît après avoir quitté son travail ; ses proches retrouvent un mot indiquant qu'elle est partie se promener, mais les recherches ne donnent rien.(n)</desc>
+  </programme>
+  <programme start="20210904031500 +0000" stop="20210904040000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Une artiste disparaît en rentrant chez elle ; quand sa voiture est retrouvée abandonnée sur un parking, de sombres spéculations naissent au sujet de sa disparition.(n)</desc>
+  </programme>
+  <programme start="20210904040000 +0000" stop="20210904042500 +0000" channel="Discovery Investigation">
+    <title lang="fr">En flagrant délit</title>
+    <desc lang="fr">Des voleurs kidnappent un requin d'un aquarium et s'enfuient. Deux prisonniers s'évadent de façon créative : cachés dans des poubelles.(n)</desc>
+  </programme>
+  <programme start="20210904042500 +0000" stop="20210904051000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Dark Waters : les rivages de la mort</title>
+    <desc lang="fr">Serena Karlan rejoint son copain, le champion de NBA Bison Dele, à bord de son catamaran. Elle est ravie jusqu'à ce que le frère de Bison apparaisse.(n)</desc>
+  </programme>
+  <programme start="20210904051000 +0000" stop="20210904060000 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">Un riche financier new-yorkais est retrouvé assassiné dans son manoir ; les vidéos de surveillance ont peut-être filmé la scène, mais les inspecteurs s'engagent sur une route sinueuse.(n)</desc>
+  </programme>
+  <programme start="20210904060000 +0000" stop="20210904065000 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">En 2008, à Houston, Tina DaVilla promène son bébé lorsqu'elle est attaquée dans un parking ; bientôt, des crimes similaires frappent la ville, mais sont-ils liés ?(n)</desc>
+  </programme>
+  <programme start="20210904065000 +0000" stop="20210904074000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Angela s'inscrit sur un site de rencontres et y tombe vite amoureuse ; le premier rendez-vous semble troubler Angela, qui disparaît après le second.(n)</desc>
+  </programme>
+  <programme start="20210904074000 +0000" stop="20210904083000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Hope, 14 ans, passe son temps en ligne après le divorce de ses parents ; après une apparente fugue, sa famille reçoit un appel prouvant qu'elle n'est pas partie de son plein gré.(n)</desc>
+  </programme>
+  <programme start="20210904083000 +0000" stop="20210904092500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Un adolescent discret disparaît après avoir eu une liaison avec une jeune mère de famille coincée dans une relation difficile : où est-il, et que cache Misty ?(n)</desc>
+  </programme>
+  <programme start="20210904092500 +0000" stop="20210904101500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Dana espérait quitter la Nouvelle-Orléans et avoir la garde de ses enfants, mais ce n'est que quand un ouragan frappe qu'on s'aperçoit qu'elle a disparu et que la vérité éclate.(n)</desc>
+  </programme>
+  <programme start="20210904101500 +0000" stop="20210904111000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Bernadette a 17 ans lorsque son petit ami lui avoue avoir tué quelqu'un ; aveuglée par son amour pour lui, elle ne le croit pas, jusqu'à ce qu'il tue à nouveau.(n)</desc>
+  </programme>
+  <programme start="20210904111000 +0000" stop="20210904120000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Lorsque le père de Cindy Taylor meurt brutalement, sa vie vole en éclat ; des années plus tard, Cindy découvre que sa mère garde de nombreux secrets.(n)</desc>
+  </programme>
+  <programme start="20210904120000 +0000" stop="20210904125500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Victimes non identifiées</title>
+    <desc lang="fr">Des fermiers découvrent le corps d'une femme sur une route déserte en Californie. 10 ans plus tard, l'inspecteur rouvre l'affaire grâce à une nouvelle technologie d'investigation.(n)</desc>
+  </programme>
+  <programme start="20210904125500 +0000" stop="20210904134500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Victimes non identifiées</title>
+    <desc lang="fr">En 1992, on découvre le corps non identifié d'une femme en plein désert de Mojave. 20 ans plus tard, un accident de voiture mène à une identification surprenante.(n)</desc>
+  </programme>
+  <programme start="20210904134500 +0000" stop="20210904144000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Twisted Sisters : les soeurs du mal</title>
+    <desc lang="fr">Une dispute pour la garde des enfants s'avère mortelle quand des jumelles imaginent un plan complexe. Comment les inspecteurs démêleront-ils le vrai du faux ?(n)</desc>
+  </programme>
+  <programme start="20210904144000 +0000" stop="20210904153000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Twisted Sisters : les soeurs du mal</title>
+    <desc lang="fr">Deux sœurs très proches se disputent l'héritage de leur mère. Des années plus tard, l'une d'entre elles meurt dans des circonstances tout aussi douloureuses que mystérieuses.(n)</desc>
+  </programme>
+  <programme start="20210904153000 +0000" stop="20210904162500 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Sandy Miles et sa fille sont inséparables. Lorsque Sandy est retrouvée assassinée, les inspecteurs ont du mal à croire ce qu'ils découvrent.(n)</desc>
+  </programme>
+  <programme start="20210904162500 +0000" stop="20210904171500 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Un couple en plein divorce pour le moins houleux, s'affronte pour la garde de leur fils. La tension monte jusqu'à une agression sanglante.(n)</desc>
+  </programme>
+  <programme start="20210904171500 +0000" stop="20210904181000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicides</title>
+    <desc lang="fr">Lorsque le mari de Robin est retrouvé assassiné, son amie Carole est là pour la soutenir : mais l'enquête va-t-elle révéler des faits qui pourraient menacer leur amitié ?(n)</desc>
+  </programme>
+  <programme start="20210904181000 +0000" stop="20210904190000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicides</title>
+    <desc lang="fr">Un gang de criminels sème la terreur dans les petites villes des Appalaches. Ils ciblent les citoyens innocents en se faisant passer pour des agents fédéraux.(n)</desc>
+  </programme>
+  <programme start="20210904190000 +0000" stop="20210904195000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Sueurs froides *2014</title>
+    <desc lang="fr">Peu de temps après avoir emménagé dans un quartier chic de Newark, dans le Delaware, la vie idyllique d'un couple est brisée par une violente agression et un enlèvement.(n)</desc>
+  </programme>
+  <programme start="20210904195000 +0000" stop="20210904204000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Sueurs froides *2014</title>
+    <desc lang="fr">Les Miller ont toujours trouvé leur fils aîné étrange ; lorsque son comportement devient sinistre, ils ignorent jusqu'où il ira pour attirer leur attention.(n)</desc>
+  </programme>
+  <programme start="20210904204000 +0000" stop="20210904213000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Police Body Cam</title>
+    <desc lang="fr">Plongez au cœur de l'action : suivez le quotidien de policiers à partir des vidéos d'intervention, et voyez comment ils gèrent les situations les plus tendues.(n)</desc>
+  </programme>
+  <programme start="20210904213000 +0000" stop="20210904222000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Police Body Cam</title>
+    <desc lang="fr">Découvrez le quotidien de la police comme vous ne l'avez jamais vu grâce aux vidéos de leurs caméras embarquées. Partir en patrouille n'a rien d'un travail de routine.(n)</desc>
+  </programme>
+  <programme start="20210904222000 +0000" stop="20210904231000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Meurtre au lac Erié</title>
+    <desc lang="fr">Le lac Érié, qui tire son nom de sa nature violente et imprévisible, a abrité certains des meurtres et des mystères les plus sombres de l'Amérique du Nord.(n)</desc>
+  </programme>
+  <programme start="20210904231000 +0000" stop="20210905000000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Meurtre au lac Erié</title>
+    <desc lang="fr">Le lac Érié, qui tire son nom de sa nature violente et imprévisible, a abrité certains des meurtres et des mystères les plus sombres de l'Amérique du Nord.(n)</desc>
+  </programme>
+  <programme start="20210905000000 +0000" stop="20210905005000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Meurtre au lac Erié</title>
+    <desc lang="fr">On retrouve le corps d'une fille de 19 ans à des kilomètres de son travail dans une station-service. Plusieurs jeunes hommes dans la communauté sont soupçonnés.(n)</desc>
+  </programme>
+  <programme start="20210905005000 +0000" stop="20210905014000 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Sandy Miles et sa fille sont inséparables. Lorsque Sandy est retrouvée assassinée, les inspecteurs ont du mal à croire ce qu'ils découvrent.(n)</desc>
+  </programme>
+  <programme start="20210905014000 +0000" stop="20210905023000 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Un couple en plein divorce pour le moins houleux, s'affronte pour la garde de leur fils. La tension monte jusqu'à une agression sanglante.(n)</desc>
+  </programme>
+  <programme start="20210905023000 +0000" stop="20210905031500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicides</title>
+    <desc lang="fr">Lorsque le mari de Robin est retrouvé assassiné, son amie Carole est là pour la soutenir : mais l'enquête va-t-elle révéler des faits qui pourraient menacer leur amitié ?(n)</desc>
+  </programme>
+  <programme start="20210905031500 +0000" stop="20210905040000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Homicides</title>
+    <desc lang="fr">Un gang de criminels sème la terreur dans les petites villes des Appalaches. Ils ciblent les citoyens innocents en se faisant passer pour des agents fédéraux.(n)</desc>
+  </programme>
+  <programme start="20210905040000 +0000" stop="20210905042500 +0000" channel="Discovery Investigation">
+    <title lang="fr">En flagrant délit</title>
+    <desc lang="fr">Un voleur tente de braquer quatre jeunes hommes, mais les victimes se défendent. Un homme armé pénètre dans un garage, mais il est maîtrisé par un employé.(n)</desc>
+  </programme>
+  <programme start="20210905042500 +0000" stop="20210905051000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Dark Waters : les rivages de la mort</title>
+    <desc lang="fr">Kelley aime son mari mais ne partage pas sa passion pour l'océan. Un jour, elle décide de le surprendre en montant sur son bateau, mais l'équipage et elle ne reviendront jamais.(n)</desc>
+  </programme>
+  <programme start="20210905051000 +0000" stop="20210905060000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Confessions criminelles</title>
+    <desc lang="fr">Lorsque deux femmes sont tuées, la police rassemble des indices étayant la thèse d'un tueur en série ; un tuyau anonyme les mène à un suspect suprenant.(n)</desc>
+  </programme>
+  <programme start="20210905060000 +0000" stop="20210905065000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Confessions criminelles</title>
+    <desc lang="fr">Une femme disparaît alors que son mari, routier, est en voyage. Quand la police démarre l'enquête, ils trouvent un jeune homme dans leur maison.(n)</desc>
+  </programme>
+  <programme start="20210905065000 +0000" stop="20210905074000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">À Sandusky, dans l'Ohio, la police est appelée à la suite de coups de feu. À leur arrivée, ils trouvent un homme mort dans son camion et un quartier qui semble en proie à l'omerta.(n)</desc>
+  </programme>
+  <programme start="20210905074000 +0000" stop="20210905083000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">Les enquêtes criminelles s'appuient sur les images filmées par les caméras embarquées des policiers américains. Quels retournements spectaculaires permettront d'attraper le tueur ?(n)</desc>
+  </programme>
+  <programme start="20210905083000 +0000" stop="20210905092500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Le millionnaire Billy McGrath disparaît et quelqu'un usurpe son identité pour envoyer des mails ; son conseiller alerte la police qui découvre une conspiration troublante.(n)</desc>
+  </programme>
+  <programme start="20210905092500 +0000" stop="20210905101500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Des enquêteurs tentent de résoudre de mystérieuses affaires de personnes disparues : s'agit-il de disparitions volontaires ou de comportements criminels ?(n)</desc>
+  </programme>
+  <programme start="20210905101500 +0000" stop="20210905111000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Gwen Bailey s'estime chanceuse lorqu'elle épouse Norman Starnes ; mais des années plus tard, elle réalise que son mari parfait est en fait un parfait monstre.(n)</desc>
+  </programme>
+  <programme start="20210905111000 +0000" stop="20210905120000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Shelly Lietz a peur de son fils depuis qu'il a 4 ans ; avec les années, cette peur ne fait que grandir, jusqu'à ce qu'elle se retrouve prisonnière dans sa propre maison.(n)</desc>
+  </programme>
+  <programme start="20210905120000 +0000" stop="20210905125500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Tammy disparaît après avoir quitté son travail ; ses proches retrouvent un mot indiquant qu'elle est partie se promener, mais les recherches ne donnent rien.(n)</desc>
+  </programme>
+  <programme start="20210905125500 +0000" stop="20210905134500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Une artiste disparaît en rentrant chez elle ; quand sa voiture est retrouvée abandonnée sur un parking, de sombres spéculations naissent au sujet de sa disparition.(n)</desc>
+  </programme>
+  <programme start="20210905134500 +0000" stop="20210905144000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Anatomie d'un crime</title>
+    <desc lang="fr">Sean Taylor, star des Washington Redskins, est abattu par un intrus dans sa maison de Miami ; comme toujours lorsqu'une célébrité est assassinée, tout le monde semble avoir un mobile.(n)</desc>
+  </programme>
+  <programme start="20210905144000 +0000" stop="20210905153000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Anatomie d'un crime</title>
+    <desc lang="fr">En 2012, Raquel Calderin, maman de 42 ans à Miami, disparait sans laisser de trace sur le chemin du retour de son travail. Les inspecteurs dressent un portrait familial dérangeant.(n)</desc>
+  </programme>
+  <programme start="20210905153000 +0000" stop="20210905162500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Angela s'inscrit sur un site de rencontres et y tombe vite amoureuse ; le premier rendez-vous semble troubler Angela, qui disparaît après le second.(n)</desc>
+  </programme>
+  <programme start="20210905162500 +0000" stop="20210905171500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Hope, 14 ans, passe son temps en ligne après le divorce de ses parents ; après une apparente fugue, sa famille reçoit un appel prouvant qu'elle n'est pas partie de son plein gré.(n)</desc>
+  </programme>
+  <programme start="20210905171500 +0000" stop="20210905181000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">À Sandusky, dans l'Ohio, la police est appelée à la suite de coups de feu. À leur arrivée, ils trouvent un homme mort dans son camion et un quartier qui semble en proie à l'omerta.(n)</desc>
+  </programme>
+  <programme start="20210905181000 +0000" stop="20210905190000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">Les enquêtes criminelles s'appuient sur les images filmées par les caméras embarquées des policiers américains. Quels retournements spectaculaires permettront d'attraper le tueur ?(n)</desc>
+  </programme>
+  <programme start="20210905190000 +0000" stop="20210905195000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Affaire Maddie McCann : l'ultime suspect</title>
+    <desc lang="fr">La police allemande déclare avoir fait une avancée majeure dans l'affaire Madeleine McCann. Deux journalistes d'investigation examinent le passé du nouveau suspect.(n)</desc>
+  </programme>
+  <programme start="20210905195000 +0000" stop="20210905204000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Affaire Maddie McCann : l'ultime suspect</title>
+    <desc lang="fr">Le suspect Christian B. rentre en Allemagne et est arrêté pour son implication possible dans la pédopornographie.(n)</desc>
+  </programme>
+  <programme start="20210905204000 +0000" stop="20210905213000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Affaire Maddie McCann : l'ultime suspect</title>
+    <desc lang="fr">Les enquêteurs fouillent les propriétés où leur suspect, Christian B., a résidé auparavant.(n)</desc>
+  </programme>
+  <programme start="20210905213000 +0000" stop="20210905222000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Mode, vice &amp; démesure : l'affaire Peter Nygård</title>
+    <desc lang="fr">Le magnat de la mode Peter Nygård était connu au Canada comme un playboy à la sombre réputation. Une querelle avec son voisin aux Bahamas déclenche une enquête et libère la parole.(n)</desc>
+  </programme>
+  <programme start="20210905222000 +0000" stop="20210905231000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Prêt-à-tuer</title>
+    <desc lang="fr">Maurizio Gucci, l'ex-directeur de la célèbre maison de couture, commence une nouvelle vie après avoir divorcé et vendu les parts de sa société. Mais un tueur le guette.(n)</desc>
+  </programme>
+  <programme start="20210905231000 +0000" stop="20210906000000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Meurtres au manoir</title>
+    <desc lang="fr">Marie commence à travailler pour un couple fortuné, engagé dans une procédure de divorce ; lorsque sa patronne disparaît, elle joue les détectives.(n)</desc>
+  </programme>
+  <programme start="20210906000000 +0000" stop="20210906005000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Meurtres au manoir</title>
+    <desc lang="fr">Velma, qui travaille comme infirmière pour Elisabeth, tente aussi de protéger cette riche rentière de sa fille manipulatrice : lorsque la situation s'envenime, Velma est l'unique rempart.(n)</desc>
+  </programme>
+  <programme start="20210906005000 +0000" stop="20210906014000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Angela s'inscrit sur un site de rencontres et y tombe vite amoureuse ; le premier rendez-vous semble troubler Angela, qui disparaît après le second.(n)</desc>
+  </programme>
+  <programme start="20210906014000 +0000" stop="20210906023000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Hope, 14 ans, passe son temps en ligne après le divorce de ses parents ; après une apparente fugue, sa famille reçoit un appel prouvant qu'elle n'est pas partie de son plein gré.(n)</desc>
+  </programme>
+  <programme start="20210906023000 +0000" stop="20210906031500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">À Sandusky, dans l'Ohio, la police est appelée à la suite de coups de feu. À leur arrivée, ils trouvent un homme mort dans son camion et un quartier qui semble en proie à l'omerta.(n)</desc>
+  </programme>
+  <programme start="20210906031500 +0000" stop="20210906040000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">Les enquêtes criminelles s'appuient sur les images filmées par les caméras embarquées des policiers américains. Quels retournements spectaculaires permettront d'attraper le tueur ?(n)</desc>
+  </programme>
+  <programme start="20210906040000 +0000" stop="20210906042500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Au coeur des douanes</title>
+    <desc lang="fr">Suivez les agents de sécurité et des douanes à la frontière espagnole dans leur lutte contre les menaces incessantes des drogues, du trafic d'armes et du terrorisme.(n)</desc>
+  </programme>
+  <programme start="20210906042500 +0000" stop="20210906051000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Pitbulls et prisonniers</title>
+    <desc lang="fr">Découvrez les coulisses de l'émission et retrouvez les chiens uniques qui ont eu un gros impact sur la famille de Tia et sur les prisonniers qui les ont aidés.(n)</desc>
+  </programme>
+  <programme start="20210906051000 +0000" stop="20210906060000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Tracey Ocasio a disparu : quand on retrouve une de ses bottes dans la forêt, les enquêteurs craignent le pire. L'agression violente d'une autre jeune femme y est-elle liée ?(n)</desc>
+  </programme>
+  <programme start="20210906060000 +0000" stop="20210906065000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Un jeune homme disparaît lors d'une chasse au trésor dans le désert d'Arizona ; les secouristes vont-ils le retrouver, ou Jesse est-il une autre victime de la malédiction du Hollandais ?(n)</desc>
+  </programme>
+  <programme start="20210906065000 +0000" stop="20210906074000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Enfant, Michael Blanco a vu sa mère commettre des actes violents ; mais alors qu'il pensait qu'elle avait agi pour protéger sa famille, la vérité est toute autre.(n)</desc>
+  </programme>
+  <programme start="20210906074000 +0000" stop="20210906083000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Beverly Stephens commence à s'inquiéter du comportement bizarre de son mari, mais elle est loin de se douter que c'est un tueur.(n)</desc>
+  </programme>
+  <programme start="20210906083000 +0000" stop="20210906092500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Angela s'inscrit sur un site de rencontres et y tombe vite amoureuse ; le premier rendez-vous semble troubler Angela, qui disparaît après le second.(n)</desc>
+  </programme>
+  <programme start="20210906092500 +0000" stop="20210906101500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Connexions dangereuses</title>
+    <desc lang="fr">Hope, 14 ans, passe son temps en ligne après le divorce de ses parents ; après une apparente fugue, sa famille reçoit un appel prouvant qu'elle n'est pas partie de son plein gré.(n)</desc>
+  </programme>
+  <programme start="20210906101500 +0000" stop="20210906111000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Victimes non identifiées</title>
+    <desc lang="fr">Des fermiers découvrent le corps d'une femme sur une route déserte en Californie. 10 ans plus tard, l'inspecteur rouvre l'affaire grâce à une nouvelle technologie d'investigation.(n)</desc>
+  </programme>
+  <programme start="20210906111000 +0000" stop="20210906120000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Victimes non identifiées</title>
+    <desc lang="fr">En 1992, on découvre le corps non identifié d'une femme en plein désert de Mojave. 20 ans plus tard, un accident de voiture mène à une identification surprenante.(n)</desc>
+  </programme>
+  <programme start="20210906120000 +0000" stop="20210906125500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Lee a disparu un matin après avoir rendu visite à un ami. S'est-il enfui, a-t-il rejoint l'armée israélienne ? Participez aux recherches pour retrouver cet adolescent perturbé.(n)</desc>
+  </programme>
+  <programme start="20210906125500 +0000" stop="20210906134500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Lors d'une nuit sans lune, alors que le vent soufflait, la voiture de Maura a fait un écart et a quitté la route, Qu'a-t-il bien pu lui arriver ?(n)</desc>
+  </programme>
+  <programme start="20210906134500 +0000" stop="20210906144000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Kathy Swanson a peur depuis 17 ans que son fils ne fasse du mal à quelqu'un. Personne ne l'a jamais crue... jusqu'à ce que son cauchemar ne devienne réalité.(n)</desc>
+  </programme>
+  <programme start="20210906144000 +0000" stop="20210906153000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Alvin "Bud" Brown est arrêté et clame être un nouvel Hannibal Lecter. Pour sa femme Jackie, il était l'homme parfait jusqu'à ce que la vérité éclate à Thanksgiving.(n)</desc>
+  </programme>
+  <programme start="20210906153000 +0000" stop="20210906162500 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'union fait la mort</title>
+    <desc lang="fr">Pour les employés de l'hôtel, les montagnes isolées où ils travaillent sont loin d'être un paradis lorsque l'un d'eux vient à disparaître. Y a-t-il un tueur parmi eux ?(n)</desc>
+  </programme>
+  <programme start="20210906162500 +0000" stop="20210906171500 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'union fait la mort</title>
+    <desc lang="fr">Deux employés de restaurant paraissent très bien s'entendre jusqu'à ce que l'un d'eux soit retrouvé mort sur un terrain de foot aux abords de la ville.(n)</desc>
+  </programme>
+  <programme start="20210906171500 +0000" stop="20210906181000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Mensonges sous serment ?</title>
+    <desc lang="fr">A Maui, une mère signale la disparition de sa fille enceinte. Des équipes fouillent la jungle, mais leurs découvertes sont horribles et les mensonges complexes.(n)</desc>
+  </programme>
+  <programme start="20210906181000 +0000" stop="20210906190000 +0000" channel="Discovery Investigation">
+    <title lang="fr">La face cachée</title>
+    <desc lang="fr">Après le meurtre d'un père par un tueur masqué à Silver Lakes, en Californie, les enquêteurs découvrent une sombre histoire de trahison : qui est le mystérieux assassin ?(n)</desc>
+  </programme>
+  <programme start="20210906190000 +0000" stop="20210906195000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Mode, vice &amp; démesure : l'affaire Peter Nygård</title>
+    <desc lang="fr">Pendant qu'il bâtissait son empire de la mode, plusieurs femmes ont accusé Peter Nygård de les avoir retenues captives et de les avoir agressées sexuellement.(n)</desc>
+  </programme>
+  <programme start="20210906195000 +0000" stop="20210906204000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Prêt-à-tuer</title>
+    <desc lang="fr">En 1995, Linda Sobek, un mannequin, réalise son rêve dans le milieu difficile de la mode ; quand elle est brutalement assassinée, des indices mènent à un suspect au sombre passé.(n)</desc>
+  </programme>
+  <programme start="20210906204000 +0000" stop="20210906213000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Police Body Cam</title>
+    <desc lang="fr">Plongez au cœur de l'action : suivez le quotidien de policiers à partir des vidéos d'intervention, et voyez comment ils gèrent les situations les plus tendues.(n)</desc>
+  </programme>
+  <programme start="20210906213000 +0000" stop="20210906222000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Police Body Cam</title>
+    <desc lang="fr">Découvrez le quotidien de la police comme vous ne l'avez jamais vu grâce aux vidéos de leurs caméras embarquées. Partir en patrouille n'a rien d'un travail de routine.(n)</desc>
+  </programme>
+  <programme start="20210906222000 +0000" stop="20210906231000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Le poids du secret</title>
+    <desc lang="fr">En 1987, six corps de femmes, momifiés, sont découverts dans une forêt de l'Oregon ; sans indices, les policiers s'intéressent à une autre affaire, étrangement similaire.(n)</desc>
+  </programme>
+  <programme start="20210906231000 +0000" stop="20210907000000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Le poids du secret</title>
+    <desc lang="fr">En 2001, Tracey Bagwell est retrouvée, poignardée à mort, dans sa voiture sur le parking d'une église ; très vite, la police découvre qu'elle détenait un secret mortel.(n)</desc>
+  </programme>
+  <programme start="20210907000000 +0000" stop="20210907005000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Le poids du secret</title>
+    <desc lang="fr">La très populaire Sara Dixon est retrouvée abattue d'une balle dans la tête durant son sommeil ; déconcertée, la police n'a qu'un fil de guirlande de Noël pour seul indice.(n)</desc>
+  </programme>
+  <programme start="20210907005000 +0000" stop="20210907014000 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'union fait la mort</title>
+    <desc lang="fr">Pour les employés de l'hôtel, les montagnes isolées où ils travaillent sont loin d'être un paradis lorsque l'un d'eux vient à disparaître. Y a-t-il un tueur parmi eux ?(n)</desc>
+  </programme>
+  <programme start="20210907014000 +0000" stop="20210907023000 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'union fait la mort</title>
+    <desc lang="fr">Deux employés de restaurant paraissent très bien s'entendre jusqu'à ce que l'un d'eux soit retrouvé mort sur un terrain de foot aux abords de la ville.(n)</desc>
+  </programme>
+  <programme start="20210907023000 +0000" stop="20210907031500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Mensonges sous serment ?</title>
+    <desc lang="fr">A Maui, une mère signale la disparition de sa fille enceinte. Des équipes fouillent la jungle, mais leurs découvertes sont horribles et les mensonges complexes.(n)</desc>
+  </programme>
+  <programme start="20210907031500 +0000" stop="20210907040000 +0000" channel="Discovery Investigation">
+    <title lang="fr">La face cachée</title>
+    <desc lang="fr">Après le meurtre d'un père par un tueur masqué à Silver Lakes, en Californie, les enquêteurs découvrent une sombre histoire de trahison : qui est le mystérieux assassin ?(n)</desc>
+  </programme>
+  <programme start="20210907040000 +0000" stop="20210907042500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Au coeur des douanes</title>
+    <desc lang="fr">Suivez les agents de sécurité et des douanes à la frontière espagnole dans leur lutte contre les menaces incessantes des drogues, du trafic d'armes et du terrorisme.(n)</desc>
+  </programme>
+  <programme start="20210907042500 +0000" stop="20210907051000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Pitbulls et prisonniers</title>
+    <desc lang="fr">D'anciens adoptants reviennent à Villalobos pour adopter un autre chien. Mariah fait face à un gros défi lorsqu'elle réalise que le chien en danger est sourd.(n)</desc>
+  </programme>
+  <programme start="20210907051000 +0000" stop="20210907060000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Lee a disparu un matin après avoir rendu visite à un ami. S'est-il enfui, a-t-il rejoint l'armée israélienne ? Participez aux recherches pour retrouver cet adolescent perturbé.(n)</desc>
+  </programme>
+  <programme start="20210907060000 +0000" stop="20210907065000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Lors d'une nuit sans lune, alors que le vent soufflait, la voiture de Maura a fait un écart et a quitté la route, Qu'a-t-il bien pu lui arriver ?(n)</desc>
+  </programme>
+  <programme start="20210907065000 +0000" stop="20210907074000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Kathy Swanson a peur depuis 17 ans que son fils ne fasse du mal à quelqu'un. Personne ne l'a jamais crue... jusqu'à ce que son cauchemar ne devienne réalité.(n)</desc>
+  </programme>
+  <programme start="20210907074000 +0000" stop="20210907083000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Alvin "Bud" Brown est arrêté et clame être un nouvel Hannibal Lecter. Pour sa femme Jackie, il était l'homme parfait jusqu'à ce que la vérité éclate à Thanksgiving.(n)</desc>
+  </programme>
+  <programme start="20210907083000 +0000" stop="20210907092500 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">Un riche financier new-yorkais est retrouvé assassiné dans son manoir ; les vidéos de surveillance ont peut-être filmé la scène, mais les inspecteurs s'engagent sur une route sinueuse.(n)</desc>
+  </programme>
+  <programme start="20210907092500 +0000" stop="20210907101500 +0000" channel="Discovery Investigation">
+    <title lang="fr">L'ombre du doute</title>
+    <desc lang="fr">En 2008, à Houston, Tina DaVilla promène son bébé lorsqu'elle est attaquée dans un parking ; bientôt, des crimes similaires frappent la ville, mais sont-ils liés ?(n)</desc>
+  </programme>
+  <programme start="20210907101500 +0000" stop="20210907111000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Tammy disparaît après avoir quitté son travail ; ses proches retrouvent un mot indiquant qu'elle est partie se promener, mais les recherches ne donnent rien.(n)</desc>
+  </programme>
+  <programme start="20210907111000 +0000" stop="20210907120000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">Une artiste disparaît en rentrant chez elle ; quand sa voiture est retrouvée abandonnée sur un parking, de sombres spéculations naissent au sujet de sa disparition.(n)</desc>
+  </programme>
+  <programme start="20210907120000 +0000" stop="20210907125500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">La famille de Michele, disparue alors qu'elle faisait du stop à un relais routier, n'a jamais perdu espoir : sa mère espère un miracle.(n)</desc>
+  </programme>
+  <programme start="20210907125500 +0000" stop="20210907134500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Disparus</title>
+    <desc lang="fr">La disparition d'un avocat paralyse une ville de montagne du Colorado ; bientôt, des preuves montrent que la communauté n'est pas aussi idyllique qu'il n'y paraît.(n)</desc>
+  </programme>
+  <programme start="20210907134500 +0000" stop="20210907144000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">L'ex de Clare Bradburn avoue un crime 26 ans après et elle pense enfin avoir obtenu justice. Malheureusement, une faille de la loi le fait libérer presque immédiatement.(n)</desc>
+  </programme>
+  <programme start="20210907144000 +0000" stop="20210907153000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Pam Jacobs révèle la sombre vérité sur son père. Durant son enfance, elle ne s'était jamais rendu compte que c'était un fugitif recherché pour les meurtres de commerçants.(n)</desc>
+  </programme>
+  <programme start="20210907153000 +0000" stop="20210907162500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">Les enquêtes criminelles s'appuient sur les images filmées par les caméras embarquées des policiers américains. Quels retournements spectaculaires permettront d'attraper le tueur ?(n)</desc>
+  </programme>
+  <programme start="20210907162500 +0000" stop="20210907171500 +0000" channel="Discovery Investigation">
+    <title lang="fr">Tuez, vous êtes filmé !</title>
+    <desc lang="fr">Judith Therianos est un esprit libre très apprécié. Mais les inspecteurs de Floride la découvrent sur des vidéos de surveillance seule et insouciante juste avant d'être tuée.(n)</desc>
+  </programme>
+  <programme start="20210907171500 +0000" stop="20210907181000 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Derrière n'importe quel sourire peut se cacher un monstre : des vidéos de famille, jamais montrées jusque-là, permettent de plonger dans l'oeil d'un tueur caché.(n)</desc>
+  </programme>
+  <programme start="20210907181000 +0000" stop="20210907190000 +0000" channel="Discovery Investigation">
+    <title lang="fr">American Monster</title>
+    <desc lang="fr">Durant l'été 2005, un monstre sévit dans les rues de Phoenix, le nombre de ses victimes ne faisant qu'augmenter : la police pourra-t-elle attraper le tueur avant qu'il ne frappe à nouveau ?(n)</desc>
+  </programme>
+  <programme start="20210907190000 +0000" stop="20210907195000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Sherry ne s'est jamais entendue avec son plus jeune frère, Brian, mais elle ne s'attendait pas à tout perdre ; maintenant elle craint qu'il finisse ce qu'il a commencé il y a 26 ans.(n)</desc>
+  </programme>
+  <programme start="20210907195000 +0000" stop="20210907204000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Un meurtrier sous mon toit</title>
+    <desc lang="fr">Lindsay savait que son père avait tendance à s'emporter vite, mais elle n'avait pas imaginé que cela la pousserait à le fuir à 14 ans ; que se passera-t-il s'il la retrouve ?(n)</desc>
+  </programme>
+  <programme start="20210907204000 +0000" stop="20210907213000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Affaire Maddie McCann : l'ultime suspect</title>
+    <desc lang="fr">La police allemande déclare avoir fait une avancée majeure dans l'affaire Madeleine McCann. Deux journalistes d'investigation examinent le passé du nouveau suspect.(n)</desc>
+  </programme>
+  <programme start="20210907213000 +0000" stop="20210907222000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Affaire Maddie McCann : l'ultime suspect</title>
+    <desc lang="fr">Le suspect Christian B. rentre en Allemagne et est arrêté pour son implication possible dans la pédopornographie.(n)</desc>
+  </programme>
+  <programme start="20210907222000 +0000" stop="20210907231000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Affaire Maddie McCann : l'ultime suspect</title>
+    <desc lang="fr">Les enquêteurs fouillent les propriétés où leur suspect, Christian B., a résidé auparavant.(n)</desc>
+  </programme>
+  <programme start="20210907231000 +0000" stop="20210908000000 +0000" channel="Discovery Investigation">
+    <title lang="fr">Sentiers meurtriers</title>
+    <desc lang="fr">En Illinois, MaryAnn Clibbery, une femme d'affaires accomplie, est brutalement assassinée ; un sac suspect flottant sur la rivière délivre tous les secrets de son meurtre.(n)</desc>
   </programme>
   <programme start="20210901001000 +0000" stop="20210901003500 +0000" channel="Nickelodeon+1">
     <title lang="fr">Sanjay et Craig</title>
